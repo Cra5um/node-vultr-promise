@@ -1,0 +1,27 @@
+{
+  "name": "vultr-promise",
+  "version": "1.0.0",
+  "author": "Dennis Bruner <contact@dennisbruner.de>",
+  "description": "A promise based vultr api wrapper",
+  "license": "MIT",
+  "keywords": [
+    "vultr",
+    "api",
+    "wrapper",
+    "promise"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cra5um/node-vultr-promise.git"
+  },
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node ./node_modules/standard/bin/cmd.js"
+  },
+  "devDependencies": {
+    "standard": "^7.1.2"
+  },
+  "dependencies": {
+    "request": "^2.73.0"
+  }
+}
