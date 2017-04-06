@@ -1,6 +1,6 @@
 {
   "name": "vultr-promise",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "author": "Dennis Bruner <contact@dennisbruner.de>",
   "description": "A promise based vultr api wrapper",
   "license": "MIT",
