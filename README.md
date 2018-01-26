@@ -3,9 +3,9 @@
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-yellowgreen.svg)](http://standardjs.com/)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
-A promise based [vultr](https://vultr.com) api wrapper
+__This project is outdated! I will update it after i finish my other projects.__
 
-__BEWARE: This module is experimental and may change in the future, use at your own risk!__
+A promise based [vultr](https://vultr.com) api wrapper
 
  - [Example](#example)
  - [Methods](#methods)
